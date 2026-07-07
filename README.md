@@ -1,26 +1,34 @@
-# Hello, I'm Quan Bui! 👋
+# Hello, I'm Quan Bui 👋
 
-I'm a Bachelor student studying Information Technology at RMIT University in Melbourne, Australia. Welcome to my GitHub profile!
+Information Technology student at RMIT University, Melbourne, Australia, with a focus on software development and a growing interest in graphic and UX design.
 
 ## About Me
 
-- 🎓 Currently pursuing a Bachelor's degree in Information Technology.
-- 💻 Passionate about coding and software development.
-- 🎨 Learning Graphic and UX Design
-- 🌱 Always eager to learn and explore new technologies.
-- 📫 You can reach me via email at tanquanbui@gmail.com.
-- 📝 Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/quan-bui2412/).
-- [Instagram](https://twitter.com/quantanbui).
-- [X/Twitter](https://www.instagram.com/quanbuu/).
+- 🎓 Bachelor of Information Technology — RMIT University
+- 💻 Focused on software development and building practical, data-driven projects
+- 🎨 Developing skills in Graphic and UX Design
+- 🌱 Continuously exploring new tools and technologies
+- 📫 tanquanbui@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/quan-bui2412/)
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## Projects
 
-Here are some of the projects I'm working on:
+**[Personify](https://github.com/tanquanbui/personify-spotify-analysis)**
+A tool for interacting with and analysing personal listening data pulled from the Spotify API.
 
-- [Personify](https://github.com/tanquanbui/personify-spotify-analysis):
-A way to interact with the data that you can get from your spotify API.
+## GitHub Stats
 
+![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanquanbui&show_icons=true&theme=default)
 
 <!---
 tanquanbui/tanquanbui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
